@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sasi K
 
-### 💻 Python Full Stack Developer | 🤖 Generative AI Engineer | ☁️ Azure & AWS Cloud Enthusiast | 🚀 Vibe Coder
+### 💻 Python Full Stack Developer  | 🚀 Vibe Coder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Generative+AI+Engineer;Azure+%7C+AWS+Cloud+Learner;FastAPI+%7C+React+Developer;Building+AI+Powered+Applications;Always+Learning+Something+New+🚀" />
 
