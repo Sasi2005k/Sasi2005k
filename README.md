@@ -41,9 +41,6 @@
 - Python
 - FastAPI
 - React.js
-- Generative AI
-- LangChain
-- Prompt Engineering
 - Azure
 - AWS
 
@@ -95,16 +92,7 @@ Become an AI Full Stack Engineer building scalable cloud-native AI applications.
 
 </p>
 
-## AI / GenAI
 
-- OpenAI
-- Claude
-- LangChain
-- Prompt Engineering
-- RAG
-- AI Agents
-- MCP
-- Vector Databases
 
 ---
 
